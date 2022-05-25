@@ -1,0 +1,53 @@
+.yel{
+    background-color: rgba(255, 191, 0, 0.889);
+    height: 300px;
+    width: 550px;
+    /* text-align: center; */
+    margin:auto;
+    padding:40px;
+    margin-top: 20px;
+}
+.gry{
+    background-color:rgba(162, 157, 157, 0.511);
+    height: 300px;
+    width: 550px;
+    /* text-align: center; */
+    margin:auto;
+    padding:40px;
+    margin-top: 20px;
+}
+ p{
+    text-align: left;
+    font-size:20px;
+}
+
+ p:nth-child(2) {
+    text-align: left;
+   background-color: black;
+   color:white;
+   width:100px;
+   padding:10px;
+    font-size:20px;
+}
+
+h1{
+    text-align: left;
+    /* font-size:20px; */
+}
+
+ h3{
+    text-align: left;
+}
+
+.card-img img{
+    height:50px;
+    text-align: right;
+    margin-top:10px;
+} 
+
+.card-img{
+    display:flex;
+    justify-content:space-between;
+    /* border:1px solid black; */
+
+}
